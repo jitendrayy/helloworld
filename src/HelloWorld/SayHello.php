@@ -6,4 +6,9 @@ class SayHello
     {
         return 'Hello World, Composer!';
     }
+
+    public static function universe()
+    {
+        return 'Hello Universe, Composer!';
+    }
 }
