@@ -11,4 +11,9 @@ class SayHello
     {
         return 'Hello Universe, Composer!';
     }
+
+    public static function india()
+    {
+        return 'Hello India, Composer!';
+    }
 }
